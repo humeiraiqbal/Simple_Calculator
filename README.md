@@ -1,2 +1,2 @@
-# Simple_Calculator
-Simple Calculator using TypeScript, Node, JS
+"# Simple-Calculator" 
+"# Simple-Calculator" 
